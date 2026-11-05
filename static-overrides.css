@@ -1,0 +1,4 @@
+/* Static archive affordances for the original WordPress-only forms. */
+.static-form-note{margin:0 0 1rem;padding:1rem 1.25rem;background:#f3f2ed;border-left:4px solid #af8c51;color:#333;line-height:1.6}
+.static-form-link{display:inline-block;margin:0 0 1.25rem;padding:.75rem 1rem;background:#a78349;color:#fff!important;text-decoration:none;font-weight:700}
+.static-form-link:hover,.static-form-link:focus{background:#806336;color:#fff!important}

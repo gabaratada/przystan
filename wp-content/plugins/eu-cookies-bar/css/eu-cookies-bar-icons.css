@@ -6,7 +6,7 @@
 @font-face {
     font-family: "Eu-cookies-bar";
     src: url("../fonts/eu-cookies-bar.eot");
-    src: url("../fonts/eu-cookies-bar.eot) format("embedded-opentype"),
+    src: url("../fonts/eu-cookies-bar.eot") format("embedded-opentype"),
     url("../fonts/eu-cookies-bar.woff") format("woff"),
     url("../fonts/eu-cookies-bar.ttf") format("truetype"),
     url("../fonts/eu-cookies-bar.svg") format("svg");
