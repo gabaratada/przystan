@@ -1,3 +1,4 @@
+baseurl: "/przystan"
 include:
   - .nojekyll
   - _external
