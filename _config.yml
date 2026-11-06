@@ -1,4 +1,4 @@
+url: "https://gabaratada.github.io"
 baseurl: "/przystan"
 include:
   - .nojekyll
-  - _external
